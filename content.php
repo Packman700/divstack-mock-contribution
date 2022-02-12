@@ -1,3 +1,3 @@
 <?php
-        echo "gojsw";
+        echo "idkon";
 ?>
